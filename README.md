@@ -17,15 +17,17 @@ Usage :
 3. Accessibility Options: Explore the accessibility settings to customize the keyboard to your preferences, such as adjusting font sizes or enabling high contrast mode.
 
 Clone the Repository
-    git clone [https://github.com/yourusername/neumorphism-analog-clock.git](https://neumorphic-keyboard-design.vercel.app/)
+    git clone [https://github.com/shubh12-577/neumorphism-analog-clock.git](https://neumorphic-keyboard-design.vercel.app/)
 Navigate to the Project Directory
     Neumorphism-Keyboard-Design.
 
-Dependencies
+Dependencies :
+
   This neumorphic keyboard design is built using HTML, CSS, and JavaScript. It does not have   
   any external dependencies.
 
-Contributions
+Contributions: 
+
   Contributions are welcome! If you have ideas for improving the keyboard design or adding new 
   features, feel free to open an issue or submit a pull request.
   
