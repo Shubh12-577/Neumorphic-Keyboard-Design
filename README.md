@@ -17,6 +17,7 @@ Usage :
 3. Accessibility Options: Explore the accessibility settings to customize the keyboard to your preferences, such as adjusting font sizes or enabling high contrast mode.
 
 Clone the Repository
+
     git clone [https://github.com/shubh12-577/neumorphism-analog-clock.git](https://neumorphic-keyboard-design.vercel.app/)
 Navigate to the Project Directory
     Neumorphism-Keyboard-Design.
