@@ -16,6 +16,11 @@ Usage :
  2. Theme Selection: Use the theme selector to switch between different predefined themes or create a custom theme.
 3. Accessibility Options: Explore the accessibility settings to customize the keyboard to your preferences, such as adjusting font sizes or enabling high contrast mode.
 
+Clone the Repository
+    git clone [https://github.com/yourusername/neumorphism-analog-clock.git](https://neumorphic-keyboard-design.vercel.app/)
+Navigate to the Project Directory
+    Neumorphism-Keyboard-Design.
+
 Dependencies
   This neumorphic keyboard design is built using HTML, CSS, and JavaScript. It does not have   
   any external dependencies.
@@ -23,9 +28,6 @@ Dependencies
 Contributions
   Contributions are welcome! If you have ideas for improving the keyboard design or adding new 
   features, feel free to open an issue or submit a pull request.
-
-License
-  This project is licensed under the MIT License. See the LICENSE file for details
   
  Neumorphic Keyboard Design In Light Mode :----
 ![image](https://github.com/Shubh12-577/Neumorphic-Keyboard-Design/assets/86088965/56af611a-9f12-4e1f-aa0a-467f995a479d)
