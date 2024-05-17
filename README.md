@@ -18,7 +18,7 @@ Usage :
 
 Clone the Repository
 
-    git clone [https://github.com/shubh12-577/neumorphism-analog-clock.git](https://neumorphic-keyboard-design.vercel.app/)
+   git clone [https://github.com/shubh12-577/neumorphism-analog-clock.git](https://neumorphic-keyboard-design.vercel.app/)
 Navigate to the Project Directory
     Neumorphism-Keyboard-Design.
 
